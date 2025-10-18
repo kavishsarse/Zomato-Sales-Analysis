@@ -1,4 +1,5 @@
 # Zomato Dataset Analysis with SQL
+# kavish
 ## Overview
 This project utilizes a sample dataset from Zomato, a leading restaurant discovery and food delivery platform. The goal is to perform data analysis using SQL queries. We have five different data tables available for analysis, and by joining them as required, we aim to derive meaningful insights and solutions related to Zomato’s operations, delivery performance, and customer preferences.
 ## Requirnments
